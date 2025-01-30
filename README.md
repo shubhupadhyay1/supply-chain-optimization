@@ -134,7 +134,7 @@ Here’s how the project comes together step by step:
      ```
    - **Backend**:
      ```bash
-     pip install -r backend/requirements.txt
+     pip install -r requirements.txt
      ```
 
 3. Train the models:
