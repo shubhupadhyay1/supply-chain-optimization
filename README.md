@@ -109,8 +109,6 @@ Here’s how the project comes together step by step:
 
 ### **5. Deployment**
 - Use **Vite** for efficient frontend bundling and hot module replacement.
-- Optionally deploy the backend on **Heroku** or **AWS** for public access.
-
 ---
 
 ## **💻 Getting Started**
