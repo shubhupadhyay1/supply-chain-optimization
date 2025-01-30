@@ -67,7 +67,7 @@ All models are trained using publicly avaible datasets on Kaggle. The backend is
 ---
 
 ### **2. Frontend Framework**
-The user interface isn’t just functional—it’s delightful to interact with. Built using **React** and **TypeScript**, the frontend leverages:
+The frontend leverages:
 - **Component-based design** for modularity and reusability.
 - **Tailwind CSS** for rapid styling and consistent, responsive design.
 - **Lucide Icons** for intuitive, visually appealing indicators.
@@ -91,12 +91,12 @@ Key components include:
 Here’s how the project comes together step by step:
 
 ### **1. Data Preparation**
-- Gather historical data on suppliers, inventory, and shipments.
-- Generate synthetic data where needed to simulate real-world scenarios.
+- Gather historical data on suppliers, inventory, and shipments from Kaggle or any other available dataset.
+- Preprocess the data using fills for missing data, dropping outliers and ensuring consistency between categorical and numerical values.
 
 ### **2. Model Training**
 - Train machine learning models using **Scikit-learn** and **Statsmodels**.
-- Save models as `.pkl` files for efficient deployment.
+- Save models as `.pkl` files for deployment.
 
 ### **3. Backend Development**
 - Set up a **FastAPI** server to expose prediction endpoints.
