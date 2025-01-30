@@ -8,7 +8,7 @@ With an interactive interface built using **React, TypeScript, and Tailwind CSS*
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="assets/dashboard.png" alt="Dashboard" height="50%" width="50%" />
+  <img src="assets/dashboard.png" alt="Dashboard"  width="100%" />
 </p>
 
 ## **🎯 Motivation**
